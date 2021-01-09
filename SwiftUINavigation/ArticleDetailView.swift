@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ArticleDetailView: View {
-    
+    //create enviroment
     @Environment(\.presentationMode) var presentationMode
     
     var article: Article
